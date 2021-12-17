@@ -61,7 +61,7 @@ function InputForm() {
 
   return (
     <div className="bg">
-      <h1>Forms</h1>
+      <h2>Forms</h2>
       <form onSubmit={handlingSubmit} className="form">
         <p>Silakan isi data diri Anda dengan benar</p>
         <div className="formatisi">
